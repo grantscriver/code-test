@@ -60,7 +60,7 @@ html {
   height: 70%;
   overflow: hidden;
   text-align: center;
-  background: #6caddc;
+  background: gray;
 }
 .card > .img-container > img {
   width: 100%;
